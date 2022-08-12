@@ -9,6 +9,7 @@
    2. Check how many branch and which is current branch (git branch)
    3. Switch between branches (git checkout <branch name>)
    4. Check code difference (git diff);
+   5. Merging branches (git merge <branch name>)
 
 Benefit of version management system git
 
