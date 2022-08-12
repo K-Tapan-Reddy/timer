@@ -4,7 +4,11 @@
 4. Commit your changes (git commit -m "Message");
 5. git push
 6. Check your code changes (git status)
+7. Branching
+   1. Create a new branch (git checkout -b tapan)
+   2. Check how many branch and which is current branch (git branch)
 
 Benefit of version management system git
 
 1. We can access code anywhere.
+2. Keep track of code changes
