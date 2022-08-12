@@ -11,6 +11,7 @@
    4. Check code difference (git diff);
    5. Merging branches (git merge <branch name>)
    6. Taking update from remote branch (git pull [remote repo name] [remote branch name])
+   7. Deleting branch (git branch -D <branch name>)
 
 Benefit of version management system git
 
