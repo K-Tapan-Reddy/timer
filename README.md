@@ -7,6 +7,8 @@
 7. Branching
    1. Create a new branch (git checkout -b tapan)
    2. Check how many branch and which is current branch (git branch)
+   3. Switch between branches (git checkout <branch name>)
+   4. Check code difference (git diff);
 
 Benefit of version management system git
 
