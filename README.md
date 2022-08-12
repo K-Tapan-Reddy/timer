@@ -10,7 +10,7 @@
    3. Switch between branches (git checkout <branch name>)
    4. Check code difference (git diff);
    5. Merging branches (git merge <branch name>)
-   6. Taking update from remote branch (git pull)
+   6. Taking update from remote branch (git pull [remote repo name] [remote branch name])
 
 Benefit of version management system git
 
