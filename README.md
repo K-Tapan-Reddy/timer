@@ -1,5 +1,5 @@
 1. Initialize your local code with git (git init)
-2. Add your remote repo to local repo (git remote add origin <url>)
+2. Add your remote repo to local repo (git remote add origin "url")
 3. Stage your changes (git add .);
 4. Commit your changes (git commit -m "Message");
 5. git push
@@ -7,11 +7,11 @@
 7. Branching
    1. Create a new branch (git checkout -b tapan)
    2. Check how many branch and which is current branch (git branch)
-   3. Switch between branches (git checkout <branch name>)
+   3. Switch between branches (git checkout "branch name")
    4. Check code difference (git diff);
-   5. Merging branches (git merge <branch name>)
-   6. Taking update from remote branch (git pull [remote repo name] [remote branch name])
-   7. Deleting branch (git branch -D <branch name>)
+   5. Merging branches (git merge "branch name")
+   6. Taking update from remote branch (git pull "remote repo name" "remote branch name")
+   7. Deleting branch (git branch -D "branch name")
 
 Benefit of version management system git
 
